@@ -41,7 +41,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
+    <Compile Include="Board.cs" />
+    <Compile Include="Exceptions\InvalidGroupException.cs" />
+    <Compile Include="Exceptions\InvalidPlacementException.cs" />
+    <Compile Include="Tile.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

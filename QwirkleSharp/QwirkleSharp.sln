@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QwirkleSharp", "QwirkleShar
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QwirkleLib", "..\QwirkleLib\QwirkleLib.csproj", "{8483634B-1A27-440F-9328-5A3176CB253E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QwirkleConsole", "..\QwirkleConsole\QwirkleConsole.csproj", "{D5521DE3-F2DF-4CB3-89D9-72FEE0E112CC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{8483634B-1A27-440F-9328-5A3176CB253E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8483634B-1A27-440F-9328-5A3176CB253E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8483634B-1A27-440F-9328-5A3176CB253E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5521DE3-F2DF-4CB3-89D9-72FEE0E112CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5521DE3-F2DF-4CB3-89D9-72FEE0E112CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5521DE3-F2DF-4CB3-89D9-72FEE0E112CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5521DE3-F2DF-4CB3-89D9-72FEE0E112CC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
